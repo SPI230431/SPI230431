@@ -29,6 +29,7 @@ Computing professionals must uphold integrity, responsibility and accountability
 Scenario 1: A data science team contracts with a client for a software project, but does not complete the project on time.
 
 • Ethical issue: The team head did not fulfill the promised time. It shows a lack of professional accountability and tiswas.
+
 Solution: The team should have informed the client ahead of time on the topic why the delivery time is getting difficult. With this, trust is maintained with the client and ethics are maintained.
 
 • Discussion: If the team had been honest with the client about the reason for the delay, they could have avoided breaking the lines of trust. Advance warning, support, and accountability should be a priority for every team, as deviating from these ethical standards damages trust and client relationships.
